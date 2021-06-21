@@ -1,0 +1,10 @@
+C:\Users\mark2\source\repos\JumpingButton\JumpingButton\bin\Debug\JumpingButton.exe.config
+C:\Users\mark2\source\repos\JumpingButton\JumpingButton\bin\Debug\JumpingButton.exe
+C:\Users\mark2\source\repos\JumpingButton\JumpingButton\bin\Debug\JumpingButton.pdb
+C:\Users\mark2\source\repos\JumpingButton\JumpingButton\obj\Debug\JumpingButton.csprojAssemblyReference.cache
+C:\Users\mark2\source\repos\JumpingButton\JumpingButton\obj\Debug\JumpingButton.Form1.resources
+C:\Users\mark2\source\repos\JumpingButton\JumpingButton\obj\Debug\JumpingButton.Properties.Resources.resources
+C:\Users\mark2\source\repos\JumpingButton\JumpingButton\obj\Debug\JumpingButton.csproj.GenerateResource.cache
+C:\Users\mark2\source\repos\JumpingButton\JumpingButton\obj\Debug\JumpingButton.csproj.CoreCompileInputs.cache
+C:\Users\mark2\source\repos\JumpingButton\JumpingButton\obj\Debug\JumpingButton.exe
+C:\Users\mark2\source\repos\JumpingButton\JumpingButton\obj\Debug\JumpingButton.pdb
